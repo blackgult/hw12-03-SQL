@@ -1,0 +1,16 @@
+SELECT DISTINCT district
+FROM address
+WHERE district LIKE 'K%a' AND district NOT LIKE '% %';
+
+SELECT *
+FROM payment
+WHERE amount > 10 AND date(payment_date) BETWEEN '2005-06-15' AND '2005-06-18';
+
+SELECT *
+FROM rental
+ORDER BY rental_date DESC
+LIMIT 5;
+
+SELECT REPLACE(LOWER(first_name), 'll', 'pp'), LOWER(last_name)
+FROM customer
+WHERE  first_name = 'KELLY' OR first_name = 'WILLIE';
