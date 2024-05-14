@@ -10,6 +10,10 @@
 
 ### Решение 1
 
+![1-1](https://github.com/blackgult/hw12-03-SQL/blob/main/1-1.PNG)
+
+![1-2](https://github.com/blackgult/hw12-03-SQL/blob/main/1-2.PNG)
+
 
 ### Задание 2
 
@@ -17,11 +21,21 @@
 
 ### Решение 2
 
+![2-1](https://github.com/blackgult/hw12-03-SQL/blob/main/2-1.PNG)
+
+![2-2](https://github.com/blackgult/hw12-03-SQL/blob/main/2-2.PNG)
+
+
 ### Задание 3
 
 Получите последние пять аренд фильмов.
 
 ### Решение 3
+
+![3-1](https://github.com/blackgult/hw12-03-SQL/blob/main/3-1.PNG)
+
+![3-2](https://github.com/blackgult/hw12-03-SQL/blob/main/3-2.PNG)
+
 
 ### Задание 4
 
@@ -33,6 +47,9 @@
 
 ### Решение 4
 
+![4-1](https://github.com/blackgult/hw12-03-SQL/blob/main/4-1.PNG)
+
+![4-2](https://github.com/blackgult/hw12-03-SQL/blob/main/4-2.PNG)
 
 
 ## Дополнительные задания (со звёздочкой*)
